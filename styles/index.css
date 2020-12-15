@@ -79,8 +79,3 @@
 @import url(/blocks/footer/__social/footer__social-icon.css); 
 @import url(/blocks/footer/__column/footer__column-links.css);
 @import url(/blocks/footer/__column/footer__column-link.css);
-
-
-div{
-    border: 1px solid red;
-}
