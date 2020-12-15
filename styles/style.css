@@ -169,7 +169,7 @@
 .feynman {
   margin: 0;
   padding-top: 100px;
-  min-height: 790px;
+  height: 790px;
   background-color: #f2f2f2;
   display: flex;
   flex-direction: column;
