@@ -1,3 +1,14 @@
+@import url(./__columns/footer__columns.css);
+@import url(./__column/footer__column.css);
+@import url(./__column/_content/footer__column_content_copyright.css);
+@import url(../header/logo/logo.css);
+@import url(../header/logo/_place/_footer/logo_place_footer.css);
+@import url(./__author/footer__author.css);
+@import url(./__column/footer__column-heading.css);
+@import url(./__social/footer__social-icon.css);
+@import url(./__column/footer__column-links.css);
+@import url(./__column/footer__column-link.css);
+
 .footer {
     padding-top: 60px;
     background-color: #1f1f1f;

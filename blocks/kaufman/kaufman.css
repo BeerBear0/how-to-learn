@@ -1,3 +1,17 @@
+@import url(../digits/section-title/section-title.css);
+@import url(../digits/section-subtitle/section-subtitle.css);
+@import url(../digits/section-title/_theme/section-title_theme_dark.css);
+@import url(../digits/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../digits/table/table.css);
+@import url(../digits/table/_theme/table_theme_dark.css);
+@import url(../digits/table/__cell/table__cell.css);
+@import url(../digits/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../digits/table/__heading/table__heading.css);
+@import url(../digits/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(../digits/table/__text/table__text.css);
+@import url(../digits/table/__text/_theme/text_theme_dark.css);
+@import url(./__triangle/kaufman__triangle.css);
+
 .kaufman {
     padding: 90px 0;
     margin: 0 auto;

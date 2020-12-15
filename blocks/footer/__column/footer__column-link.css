@@ -7,3 +7,6 @@
     color: white;
   }
   
+  .footer__column-link:hover {
+    opacity: .6;
+  }
