@@ -1,16 +1,10 @@
-@import url(../digits/section-title/section-title.css);
-@import url(../digits/section-subtitle/section-subtitle.css);
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
 @import url(./__iframes/video__iframes.css);
 @import url(./__iframe/video__iframe.css);
-/*
-
-@import url(./background-color/background-color.css);
-
-*/
 
 .video {
   margin-top: 100px;
   padding: 0;
-  position: relative;
-  min-height: 425px;
+  margin-bottom: -60px;
 }
